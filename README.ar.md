@@ -40,9 +40,25 @@ lock identity and relation → find one emotional or directional proposition →
 
 توجد القيود الجمالية وقواعد الرفض الكاملة في المهارة وتوجيهات الإنتاج. وهي تحفظ دافع النص الأصلي من دون تحويل لوحة 3:4 التاريخية إلى قيمة افتراضية خفية. [SKILL.md](SKILL.md) · [production prompt](references/xxd-panel-036-prompt.en.md)
 
-## النماذج · قريباً
+## النماذج · من X
 
-لن يضاف إلى `assets/examples/` إلا عمل مكتمل بهذا الأسلوب ومؤكد من صاحب المشروع، ولن يُستخدم أسلوب آخر كعنصر مؤقت.
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090745034257903827) · 2026-08-21<br>
+> GPT2 x 线条 x 色块 x 治愈 x 美学提示词 x VOL.036
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090745034257903827"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 036 نموذج 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090745034257903827"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 036 نموذج 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090745034257903827"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 036 نموذج 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090745034257903827"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 036 نموذج 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090745034257903827">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
+
+تعرض هذه النماذج الدافع الجمالي للإصدار 036 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
 
 ## أربعة مخرجات قابلة للجمع
 
