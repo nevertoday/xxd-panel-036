@@ -20,26 +20,6 @@
 
 元写真を、自然な間を持つ少数の連続線で一つの識別可能な関係へ蒸留します。2〜4個の透明な元写真由来の色域は装飾ではなく、輪郭、動き、負の空間、感情の重心に従って流れます。
 
-## この Skill が必要な理由
-
-このスタイルは元写真に依存し、内容を差し替えられる装飾プリセットではありません。変換は次の因果鎖に従います：
-
-```text
-lock identity and relation → find one emotional or directional proposition → redraw with sparse continuous hand line → distribute 2–4 source-derived translucent organic colour fields → let overlaps create restrained mixed colour → preserve paper-white breathing space → make native copy another line in the composition
-```
-
-無関係な写真に替えても認識、構造、配置、素材、色、余白、文案が実質的に変わらないなら、本 Panel の成果ではありません。
-
-## ビジュアル契約
-
-- **元写真への拘束：** 写真を、透明な色域に運ばれる連続線へ
-- **スタイルDNA：** 一つの関係 · 細い連続線 · 2〜4色域 · 水彩の縁 · 呼吸する余白
-- **識別性：** 元写真固有の手掛かりを三つ以上保ち、無関係な写真なら構造も実質的に変わること。
-- **構図：** 一つの主体または不可分の関係、元写真に根拠のある配置、能動的な余白を守ること。
-- **素材と色：** 固定テンプレートではなく、写真から導き、プロジェクト固有の生成仕様に従うこと。
-
-美的制約と拒否項目は[原文プロンプト](references/036-source.md)だけにあり、Skill とランタイムアダプターは今回の出力変数だけを扱います。 [Skill](SKILL.md) · [英語ランタイムアダプター](references/xxd-panel-036-prompt.en.md)
-
 ## 作例 · X より
 
 > [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090745034257903827) · 2026-08-21<br>
@@ -59,6 +39,26 @@ lock identity and relation → find one emotional or directional proposition →
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090745034257903827">元の投稿と完全なプロンプトを見る →</a></p>
 
 これらの作例は 036 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
+
+## この Skill が必要な理由
+
+このスタイルは元写真に依存し、内容を差し替えられる装飾プリセットではありません。変換は次の因果鎖に従います：
+
+```text
+lock identity and relation → find one emotional or directional proposition → redraw with sparse continuous hand line → distribute 2–4 source-derived translucent organic colour fields → let overlaps create restrained mixed colour → preserve paper-white breathing space → make native copy another line in the composition
+```
+
+無関係な写真に替えても認識、構造、配置、素材、色、余白、文案が実質的に変わらないなら、本 Panel の成果ではありません。
+
+## ビジュアル契約
+
+- **元写真への拘束：** 写真を、透明な色域に運ばれる連続線へ
+- **スタイルDNA：** 一つの関係 · 細い連続線 · 2〜4色域 · 水彩の縁 · 呼吸する余白
+- **識別性：** 元写真固有の手掛かりを三つ以上保ち、無関係な写真なら構造も実質的に変わること。
+- **構図：** 一つの主体または不可分の関係、元写真に根拠のある配置、能動的な余白を守ること。
+- **素材と色：** 固定テンプレートではなく、写真から導き、プロジェクト固有の生成仕様に従うこと。
+
+美的制約と拒否項目は[原文プロンプト](references/036-source.md)だけにあり、Skill とランタイムアダプターは今回の出力変数だけを扱います。 [Skill](SKILL.md) · [英語ランタイムアダプター](references/xxd-panel-036-prompt.en.md)
 
 ## 原文プロンプトを唯一の美的基準にする
 

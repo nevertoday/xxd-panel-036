@@ -20,26 +20,6 @@
 
 원본을 자연스러운 멈춤이 있는 소수의 연속선으로 하나의 식별 가능한 관계로 압축합니다. 원본에서 얻은 2–4개의 투명 색면은 장식이 아니라 윤곽, 움직임, 음의 공간과 감정의 무게중심을 따라 흐릅니다.
 
-## 이 Skill이 필요한 이유
-
-이 스타일은 원본에 의존하며 내용을 바꿔 끼우는 장식 프리셋이 아닙니다. 다음 변환 인과를 따릅니다:
-
-```text
-lock identity and relation → find one emotional or directional proposition → redraw with sparse continuous hand line → distribute 2–4 source-derived translucent organic colour fields → let overlaps create restrained mixed colour → preserve paper-white breathing space → make native copy another line in the composition
-```
-
-무관한 사진으로 바꿔도 식별, 구성, 배치, 재료, 색, 여백과 문구가 실질적으로 달라지지 않는다면 이 Panel의 결과가 아닙니다.
-
-## 시각적 원칙
-
-- **원본 결속:** 사진을 투명한 색면이 흐르는 연속선으로
-- **스타일 DNA:** 하나의 관계 · 가는 연속선 · 2–4 색면 · 수채 번짐 · 숨 쉬는 여백
-- **식별성:** 원본 고유 단서를 세 가지 이상 보존하며 무관한 사진이라면 구성도 실질적으로 달라져야 합니다.
-- **구도:** 하나의 주체 또는 분리할 수 없는 관계, 원본에 근거한 배치와 능동적 여백을 지킵니다.
-- **재료와 색:** 고정 템플릿이 아니라 사진에서 도출하고 프로젝트별 생성 규격을 적용합니다.
-
-미적 제약과 금지 항목은 [원본 프롬프트](references/036-source.md)에만 있으며 Skill과 런타임 어댑터는 이번 출력 변수만 처리합니다. [Skill](SKILL.md) · [영문 런타임 어댑터](references/xxd-panel-036-prompt.en.md)
-
 ## 예시 · X에서
 
 > [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090745034257903827) · 2026-08-21<br>
@@ -59,6 +39,26 @@ lock identity and relation → find one emotional or directional proposition →
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090745034257903827">원문 게시물과 전체 프롬프트 보기 →</a></p>
 
 이 예시는 036의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
+
+## 이 Skill이 필요한 이유
+
+이 스타일은 원본에 의존하며 내용을 바꿔 끼우는 장식 프리셋이 아닙니다. 다음 변환 인과를 따릅니다:
+
+```text
+lock identity and relation → find one emotional or directional proposition → redraw with sparse continuous hand line → distribute 2–4 source-derived translucent organic colour fields → let overlaps create restrained mixed colour → preserve paper-white breathing space → make native copy another line in the composition
+```
+
+무관한 사진으로 바꿔도 식별, 구성, 배치, 재료, 색, 여백과 문구가 실질적으로 달라지지 않는다면 이 Panel의 결과가 아닙니다.
+
+## 시각적 원칙
+
+- **원본 결속:** 사진을 투명한 색면이 흐르는 연속선으로
+- **스타일 DNA:** 하나의 관계 · 가는 연속선 · 2–4 색면 · 수채 번짐 · 숨 쉬는 여백
+- **식별성:** 원본 고유 단서를 세 가지 이상 보존하며 무관한 사진이라면 구성도 실질적으로 달라져야 합니다.
+- **구도:** 하나의 주체 또는 분리할 수 없는 관계, 원본에 근거한 배치와 능동적 여백을 지킵니다.
+- **재료와 색:** 고정 템플릿이 아니라 사진에서 도출하고 프로젝트별 생성 규격을 적용합니다.
+
+미적 제약과 금지 항목은 [원본 프롬프트](references/036-source.md)에만 있으며 Skill과 런타임 어댑터는 이번 출력 변수만 처리합니다. [Skill](SKILL.md) · [영문 런타임 어댑터](references/xxd-panel-036-prompt.en.md)
 
 ## 원본 프롬프트가 유일한 미적 기준입니다
 

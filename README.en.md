@@ -20,26 +20,6 @@
 
 The source becomes one recognisable relation drawn with a few naturally paused lines. Two to four translucent, source-derived colour fields follow contour, movement, negative space, and emotional gravity rather than acting as decoration.
 
-## Why this Skill exists
-
-The style is source-dependent, not a decorative preset. Its operative transformation is:
-
-```text
-lock identity and relation → find one emotional or directional proposition → redraw with sparse continuous hand line → distribute 2–4 source-derived translucent organic colour fields → let overlaps create restrained mixed colour → preserve paper-white breathing space → make native copy another line in the composition
-```
-
-If an unrelated photograph could replace the source without materially changing recognition, construction, placement, material, colour, whitespace, and copy, the result does not belong to this Panel.
-
-## The visual contract
-
-- Preserve at least three cues across contour, pose, direction, action, opening, distance, or relation.
-- Use fine black-grey continuous line with natural pauses, slight hand hesitation, omission, connection, extension, and unfinished edges; never mechanically trace.
-- Use two to four asymmetric low-to-medium-saturation, high-value colour fields derived from the source; their soft watercolour blooms must follow subject structure and negative space.
-- Keep broad paper-white breathing room. Colour overlaps may create a small transparent mixed hue, but never a digital gradient, hard vector blob, regular circle, rainbow spread, or heavy fill.
-- Let one core relation remain dominant; placement may be offset, suspended, cropped, or gently extended according to source direction.
-
-Aesthetic constraints and rejection rules live only in the [original source brief](references/036-source.md); the Skill and runtime adapter handle delivery variables only. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-036-prompt.en.md)
-
 ## Samples · From X
 
 > [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090745034257903827) · 2026-08-21<br>
@@ -59,6 +39,26 @@ Aesthetic constraints and rejection rules live only in the [original source brie
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090745034257903827">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 036 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+## Why this Skill exists
+
+The style is source-dependent, not a decorative preset. Its operative transformation is:
+
+```text
+lock identity and relation → find one emotional or directional proposition → redraw with sparse continuous hand line → distribute 2–4 source-derived translucent organic colour fields → let overlaps create restrained mixed colour → preserve paper-white breathing space → make native copy another line in the composition
+```
+
+If an unrelated photograph could replace the source without materially changing recognition, construction, placement, material, colour, whitespace, and copy, the result does not belong to this Panel.
+
+## The visual contract
+
+- Preserve at least three cues across contour, pose, direction, action, opening, distance, or relation.
+- Use fine black-grey continuous line with natural pauses, slight hand hesitation, omission, connection, extension, and unfinished edges; never mechanically trace.
+- Use two to four asymmetric low-to-medium-saturation, high-value colour fields derived from the source; their soft watercolour blooms must follow subject structure and negative space.
+- Keep broad paper-white breathing room. Colour overlaps may create a small transparent mixed hue, but never a digital gradient, hard vector blob, regular circle, rainbow spread, or heavy fill.
+- Let one core relation remain dominant; placement may be offset, suspended, cropped, or gently extended according to source direction.
+
+Aesthetic constraints and rejection rules live only in the [original source brief](references/036-source.md); the Skill and runtime adapter handle delivery variables only. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-036-prompt.en.md)
 
 ## The original brief is authoritative
 
