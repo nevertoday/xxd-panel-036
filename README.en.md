@@ -14,16 +14,7 @@
 
 </div>
 
-<div>
-
-> ONE RELATION · FINE LINE · 2–4 COLOUR FIELDS · WATERCOLOUR EDGE · BREATHING SPACE
-
-The source becomes one recognisable relation drawn with a few naturally paused lines. Two to four translucent, source-derived colour fields follow contour, movement, negative space, and emotional gravity rather than acting as decoration.
-
 ## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090745034257903827) · 2026-08-21<br>
-> GPT2 x 线条 x 色块 x 治愈 x 美学提示词 x VOL.036
 
 <table>
   <tr>
@@ -36,9 +27,18 @@ The source becomes one recognisable relation drawn with a few naturally paused l
   </tr>
 </table>
 
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090745034257903827) · 2026-08-21<br>
+> GPT2 x 线条 x 色块 x 治愈 x 美学提示词 x VOL.036
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090745034257903827">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 036 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+<div>
+
+> ONE RELATION · FINE LINE · 2–4 COLOUR FIELDS · WATERCOLOUR EDGE · BREATHING SPACE
+
+The source becomes one recognisable relation drawn with a few naturally paused lines. Two to four translucent, source-derived colour fields follow contour, movement, negative space, and emotional gravity rather than acting as decoration.
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 036 right for you?
