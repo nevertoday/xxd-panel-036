@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 036
+# 🦁 XXD Panel 036｜Streamline Picture Book
 
 ### Turn photographs into continuous lines carried by translucent colour
 

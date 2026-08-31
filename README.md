@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 036
+# 🦁 XXD Panel 036｜流线绘本
 
 ### 让连续细线承载关系，让透明色域缓慢流动
 

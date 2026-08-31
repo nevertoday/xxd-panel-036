@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 036
+# 🦁 XXD Panel 036｜유선형 그림책
 
 ### 사진을 투명한 색면이 흐르는 연속선으로
 
