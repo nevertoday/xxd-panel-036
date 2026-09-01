@@ -1,5 +1,3 @@
-<p align="center"><img src="./assets/banner.svg" alt="XXD Panel 036 project banner" width="1200"></p>
-
 <div align="center">
 
 # 🦁 XXD Panel 036｜유선형 그림책
