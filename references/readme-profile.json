@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 036｜Streamline Picture Book: redraws the key relationship, gesture or direction in a photo as a few fine, continuous, slightly hesitant black-grey lines with omissions and open ends, floating over two to four loose, translucent watercolour colour fields taken from the photo that bleed, overlap and fade into warm paper white. A very short handwritten word or phrase is drawn in the same thin line, sometimes growing out of a stroke. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-036 or asks for minimal continuous line art, one-line drawing with watercolour washes or a gentle picture-book look from a photo.",
+  "short_description": "流线绘本：用连续细线画出照片里的关系，让两到四块透明水彩色域慢慢流动",
+  "zh-CN": {
+    "name": "流线绘本",
+    "tagline": "用几根连续细线画出照片里的关系，让透明的色彩在纸上慢慢流动。",
+    "look": "照片里最有意味的关系、动作方向或姿态，被几根纤细、连续、略带停顿的黑灰线条重新画出来，大量省略，有的线不画完。背后是两到四块从照片颜色里调出的柔和色域，形状松弛不对称，边缘有水彩晕染和渗化，可以彼此透明叠色，并慢慢消散在温润的纸白里。文字是一个极短的词或短句，用同样纤细的手写线条写成，有时就从某根线延伸出来。",
+    "traits": ["关系", "纤细连续线", "二至四色", "水彩渗化", "柔软留白"],
+    "good": [
+      "有关系或互动的瞬间：牵手、拥抱、一个人和一只狗、母亲抱着孩子",
+      "动作方向清楚的照片：奔跑、跳舞、回头、伸手",
+      "想做成卡片、绘本插图、文章配图或纪念日海报的照片"
+    ],
+    "poor": [
+      "必须保留大量细节或文字的图：菜单、地图、产品说明",
+      "没有明确关系或动作的杂乱场景，线条会失去重点",
+      "想要硬边矢量色块、浓重配色、复杂背景或卡通效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Streamline Picture Book",
+    "tagline": "Draws the relationship in your photo with a few continuous fine lines and lets translucent colour drift across the paper.",
+    "look": "The most meaningful relationship, movement or pose in the photo is redrawn with a few fine, continuous black-grey lines that pause like a hand drawing, leave a great deal out and sometimes stop short. Behind them float two to four soft colour fields mixed from the photo's own colours, loose and uneven in shape, with watercolour blooms and bleeding edges that overlap into new translucent colours and fade into warm paper white. The text is a very short word or phrase written in the same thin handwritten line, sometimes growing out of one of the strokes.",
+    "traits": ["Relationship", "Fine continuous line", "Two to four colours", "Watercolour bleed", "Soft whitespace"],
+    "good": [
+      "Moments of connection: holding hands, a hug, a person with a dog, a mother holding a child",
+      "Photos with a clear direction of movement: running, dancing, turning back, reaching out",
+      "Photos you want as a card, a picture-book illustration, an article image or an anniversary poster"
+    ],
+    "poor": [
+      "Images that must keep lots of detail or text: menus, maps, product instructions",
+      "Busy scenes without a clear relationship or gesture, where the lines lose their focus",
+      "Requests for hard-edged vector shapes, heavy colour, detailed backgrounds or cartoons"
+    ]
+  },
+  "ja": {
+    "name": "流線の絵本",
+    "tagline": "写真の中の関係を数本の連続した細い線で描き、透明な色を紙の上でゆっくり流します。",
+    "look": "写真でいちばん意味のある関係、動きの方向、姿勢を、手の止まりを感じさせる細く連続した黒灰色の線で描き直します。多くを省き、描き切らない線もあります。背景には写真の色から調合した柔らかい色面が二〜四つ、ゆるく不揃いな形で広がり、縁は水彩のにじみと滲みで、重なって透明な新しい色をつくりながら温かい紙の白へ溶けていきます。文字はごく短い言葉や一句を同じ細い手書きの線で書き、ときにはある一本の線からそのまま続きます。",
+    "traits": ["関係", "細い連続線", "二〜四色", "水彩のにじみ", "柔らかな余白"],
+    "good": [
+      "つながりのある瞬間：手をつなぐ、抱き合う、人と犬、子どもを抱く母親",
+      "動きの方向がはっきりした写真：走る、踊る、振り返る、手を伸ばす",
+      "カード、絵本の挿絵、記事の挿絵、記念日のポスターにしたい写真"
+    ],
+    "poor": [
+      "細部や文字をたくさん残す必要がある画像：メニュー、地図、製品の説明",
+      "はっきりした関係や動きのない雑然とした場面（線の焦点がぼやけます）",
+      "硬いベクターの色面、濃い配色、込み入った背景、キャラクター風を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "유선형 그림책",
+    "tagline": "사진 속 관계를 몇 줄의 이어진 가는 선으로 그리고, 투명한 색이 종이 위를 천천히 흐르게 합니다.",
+    "look": "사진에서 가장 의미 있는 관계, 움직임의 방향, 자세를 손이 잠시 멈춘 듯한 가늘고 이어진 흑회색 선으로 다시 그립니다. 많은 부분을 생략하고 끝까지 긋지 않는 선도 있습니다. 뒤에는 사진의 색으로 섞은 부드러운 색면 두세 개에서 네 개가 느슨하고 고르지 않은 모양으로 놓이고, 가장자리는 수채 번짐과 스밈으로 서로 겹쳐 투명한 새 색을 만들며 따뜻한 종이 흰색 속으로 사라집니다. 글자는 아주 짧은 단어나 한 구절을 같은 가는 손글씨 선으로 쓰고, 때로는 어느 한 선에서 그대로 이어집니다.",
+    "traits": ["관계", "가는 연속선", "2–4가지 색", "수채 번짐", "부드러운 여백"],
+    "good": [
+      "관계가 느껴지는 순간: 손잡기, 포옹, 사람과 강아지, 아이를 안은 엄마",
+      "움직임의 방향이 분명한 사진: 달리기, 춤, 뒤돌아보기, 손 뻗기",
+      "카드, 그림책 삽화, 글 삽화, 기념일 포스터로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "세부나 글자를 많이 남겨야 하는 이미지: 메뉴판, 지도, 제품 설명",
+      "뚜렷한 관계나 동작이 없는 복잡한 장면(선이 초점을 잃습니다)",
+      "딱딱한 벡터 색면, 진한 배색, 복잡한 배경, 캐릭터 느낌을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "كتاب مصوّر انسيابي",
+    "tagline": "يرسم العلاقة في صورتك ببضعة خطوط رفيعة متصلة، ويترك ألواناً شفافة تنساب ببطء على الورق.",
+    "look": "تُرسم أهم علاقة أو اتجاه حركة أو وضعية في الصورة من جديد ببضعة خطوط رمادية سوداء رفيعة ومتصلة، فيها توقفات اليد، تُسقط الكثير وقد يتوقف بعضها قبل أن يكتمل. خلفها حقلان إلى أربعة حقول لونية ناعمة ممزوجة من ألوان الصورة نفسها، بأشكال مرتخية غير متناظرة وحواف فيها تفتح الألوان المائية وتسرّبها، تتراكب لتولد ألواناً شفافة جديدة وتذوب في بياض الورق الدافئ. النص كلمة أو عبارة قصيرة جداً تُكتب بالخط اليدوي الرفيع نفسه، وقد تنبثق أحياناً من أحد الخطوط.",
+    "traits": ["علاقة", "خط رفيع متصل", "لونان إلى أربعة", "تسرّب مائي", "فراغ ناعم"],
+    "good": [
+      "لحظات تواصل: إمساك الأيدي، عناق، شخص مع كلب، أم تحمل طفلها",
+      "صور فيها اتجاه حركة واضح: ركض، رقص، التفات، مدّ اليد",
+      "صور تريدها بطاقة أو رسماً لكتاب مصوّر أو صورة لمقال أو ملصق ذكرى"
+    ],
+    "poor": [
+      "صور يجب أن تحتفظ بتفاصيل أو نصوص كثيرة: قوائم الطعام، الخرائط، تعليمات المنتجات",
+      "مشاهد مزدحمة بلا علاقة أو حركة واضحة، فتفقد الخطوط تركيزها",
+      "طلب كتل متجهية حادة الحواف أو ألوان ثقيلة أو خلفيات معقدة أو رسوم كرتونية"
+    ]
+  }
+}
